@@ -1,6 +1,6 @@
 <!-- Banner Section: Clean and Architectural -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Abdellah%20Addoun&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Architect%20%7C%20Leader%20%7C%20Builder&descAlign=50&descAlignY=70&descSize=20" alt="Abdellah Addoun Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f2f3f3&height=250&section=header&text=Abdellah%20Addoun&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Architect%20%7C%20Leader%20%7C%20Builder&descAlign=50&descAlignY=70&descSize=20" alt="Abdellah Addoun Header" />
   
   <h3>
     <i>"Solving Problems Across the Technology Stack."</i>
@@ -45,7 +45,7 @@ I don't just write software; I design **engines**. I specialize in **Modular Mon
 #### **Versatile Toolbelt (Proficient)**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,vuejs,python,flutter,dart,php,laravel,firebase,redis,mysql,rxjs,jest,cypress,playright,rider,webstorm,pycharm,notion&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,vuejs,python,flutter,dart,php,laravel,firebase,redis,mysql,rxjs,jest,cypress,rider,webstorm,pycharm,notion&perline=10" />
   </a>
 </p>
 
@@ -53,18 +53,6 @@ I don't just write software; I design **engines**. I specialize in **Modular Mon
 `SDLC` • `Hexagonal Architecture` • `Event-Driven Systems` • `Modularity` • `Agile Scrum` • `CI/CD Pipelines` • `Generative AI Integration`
 
 ---
-
-### 🏛️ Engineering Philosophy & Open Source
-
-I believe in building software that is **maintainable by design**. I actively contribute to the ecosystem by creating libraries that solve architectural pain points.
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[InzDynamicModuleLoader](https://github.com/joeloudjinz/InzDynamicModuleLoader)** | Robust dynamic module loading for .NET to ensure strict separation of concerns. | `C#` `Reflection` |
-| **[inz-forge-ui](https://github.com/joeloudjinz/inz-forge-ui)** | A modular UI component architecture designed for scalable Angular applications. | `Angular` `VueJS` `TS` `Nx` `Cypress` `Playwright` |
-| **[InzSeeder](https://github.com/joeloudjinz/InzSeeder)** | A flexible data seeding library to manage initial database population and testing states. | `.NET` `EF Core` |
-| **[InzPipeline](https://github.com/joeloudjinz/InzPipeline)** | A fluent API library to break down complex business logic into sequential steps. | `C#` `Patterns` |
-
 
 ### ✍️ Latest Updates
 
@@ -75,6 +63,6 @@ I believe in building software that is **maintainable by design**. I actively co
 <div align="center">
   <br>
   <a href="https://abdellahaddoun.com">
-    <img src="https://img.shields.io/badge/Visit_My_Full_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_My_Full_Website_&_Discover_More-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
