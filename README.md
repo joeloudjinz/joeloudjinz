@@ -1,6 +1,6 @@
 <!-- Banner Section: Clean and Architectural -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f2f3f3&height=250&section=header&text=Abdellah%20Addoun&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Architect%20%7C%20Leader%20%7C%20Builder&descAlign=50&descAlignY=70&descSize=20" alt="Abdellah Addoun Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f2f3f3&height=250&section=header&text=Abdellah%20Addoun%20%F0%9F%87%B5%F0%9F%87%B8&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Architect%20%7C%20Leader%20%7C%20Builder&descAlign=50&descAlignY=70&descSize=20" alt="Abdellah Addoun Header" />
   
   <h3>
     <i>"Solving Problems Across the Technology Stack."</i>
