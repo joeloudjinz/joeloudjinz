@@ -45,7 +45,7 @@ I don't just write software; I design **engines**. I specialize in **Modular Mon
 #### **Versatile Toolbelt (Proficient)**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,vuejs,python,flutter,dart,php,laravel,firebase,redis,mysql,rxjs,jest,cypress,rider,webstorm,pycharm,notion&perline=10" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,nodejs,vuejs,python,php,laravel,firebase,redis,mysql,rxjs,rider,webstorm,pycharm,notion&perline=10" />
   </a>
 </p>
 
@@ -63,6 +63,6 @@ I don't just write software; I design **engines**. I specialize in **Modular Mon
 <div align="center">
   <br>
   <a href="https://abdellahaddoun.com">
-    <img src="https://img.shields.io/badge/Visit_My_Full_Website_&_Discover_More-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_My_Website_&_Discover_More-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
